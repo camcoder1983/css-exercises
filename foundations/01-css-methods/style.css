@@ -1,0 +1,16 @@
+.div-external {
+    background-color: red;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: 700px;
+}
+
+p {
+    background-color: green;
+    color: white;
+}
+
+button {
+    background-color: orange;
+}
